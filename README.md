@@ -1,9 +1,9 @@
-# 🏥 Hospital Visits Dashboard
+# 🏥 Emergency Visits Dashboard
 
 An interactive Power BI dashboard that analyzes emergency room visits, identifies high-traffic time slots, evaluates patient satisfaction, and tracks average wait times across departments. Includes a searchable patient record table for audits and reviews.
 
 
-
+![Dashboard Screenshot](./Dashboard.png)
 ---
 
 ## 🎯 Objective
